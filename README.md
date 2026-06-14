@@ -1,1 +1,1 @@
-# IMTalker-PersonaPlex-Streaming-LoRA-v3
+# IMTalker-PersonaPlex-Streaming-v1
